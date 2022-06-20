@@ -69,7 +69,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
                 InlineKeyboardButton("🗨️ سبام", callback_data="spam"),
             ],
             [
-                InlineKeyboardButton("🤖 مصنع بوتات", url="t.me/AS_GBOT"),
+                InlineKeyboardButton("🤖 مصنع بوتات", url="t.me/O_K_8Bot"),
             ],
             [
                 InlineKeyboardButton("🔙 رجوع", callback_data="home"),
@@ -97,7 +97,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
                 InlineKeyboardButton("🏷️ قناة السورس", url=f"https://t.me/{UPDATES_CHANNEL}"),
             ],
             [
-                InlineKeyboardButton("🤖 تو باك", url="https://t.me/Confgat_EG"),
+                InlineKeyboardButton("🤖 تو باك", url="https://t.me/X_8_00"),
             ],
             [
                 InlineKeyboardButton("🤔 المساعده & الاوامر", callback_data="help"),
@@ -194,7 +194,7 @@ async def start(client: Client, message: Message):
                 InlineKeyboardButton("🏷️ قناة السورس", url=f"https://t.me/{UPDATES_CHANNEL}"),
             ],
             [
-                InlineKeyboardButton("🤖 تو باك", url="https://t.me/Confgat_EG"),
+                InlineKeyboardButton("🤖 تو باك", url="https://t.me/X_8_00"),
             ],
             [
                 InlineKeyboardButton("🤔 المساعده & الاوامر", callback_data="help"),
@@ -217,7 +217,7 @@ async def help(client: Client, message: Message):
                 InlineKeyboardButton("🗨️ اسبام", callback_data="spam"),
             ],
             [
-                InlineKeyboardButton("🤖 مصنع حمايه", url="t.me/AS_GBOT"),
+                InlineKeyboardButton("🤖 مصنع حمايه", url="t.me/O_K_8Bot"),
             ],
             [
                 InlineKeyboardButton("🔙 رجوع", callback_data="home"),
